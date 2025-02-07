@@ -10,11 +10,7 @@ O jogo escolhe um número aleatório dentro de um intervalo definido e o jogador
 
 🚀 Tecnologias Utilizadas
 
-HTML
-
-CSS
-
-JavaScript
+HTML, CSS e JavaScript
 
 
 🕹️ Como Jogar
@@ -28,6 +24,8 @@ O jogo responde se o número secreto é maior ou menor.
 O jogador continua tentando até acertar.
 
 Quando o jogador acerta, o jogo exibe uma mensagem de parabéns e o número de tentativas que foram necessárias!
+
+O jogador pode clicar em "Novo Jogo" para gerar um novo número secreto e jogar novamente.
 
 
 📌 Melhorias Futuras
